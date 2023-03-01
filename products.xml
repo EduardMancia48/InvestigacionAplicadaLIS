@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<productos>
+	<Producto cod="01">
+		<nombre>Xiaomi Redmi Note Gris 11S</nombre>
+		<modelo>REDMINOTE11S</modelo>
+		<imagen>img/redminote11s.jpg</imagen>
+		<precio>309.00</precio>
+		<color>Gris</color>
+		<sistemaOperativo>Android 11</sistemaOperativo>
+		<RAM>6 GB</RAM>
+		<descripcion>Celular Xiaomi REDMINOTE11S con pantalla de 6.4", memoria interna de 128 GB.</descripcion>
+	
+	</Producto>
+	<Producto cod="02">
+		<nombre>IPHONE 14 PRO MAX </nombre>
+		<imagen>img/iphone14max.jpg</imagen>
+		<modelo>MQ9P3BE/A</modelo>
+		<precio>1599.00</precio>
+		<color>Negro</color>
+		<sistemaOperativo>iOS</sistemaOperativo>
+		<RAM>6 GB</RAM>
+		<descripcion>Celular Apple IPHONE 14 PRO MAX, con pantalla de 6.7", sistema operativo ios, con cámara principal de 48 MPMP y frontal de 12MP.</descripcion>
+		<imagen>"img/iphone14max.jpg"</imagen>
+	</Producto>
+	<Producto cod="03">
+		<nombre>Samsung Galaxy S23 ULTRA</nombre>
+		<imagen>img/samsungS23.jpg</imagen>
+		<modelo>S23ULTRA</modelo>
+		<precio>1799.00</precio>
+		<color>Lavanda</color>
+		<sistemaOperativo>Snapdragon 8 Gen 2</sistemaOperativo>
+		<RAM>12 GB</RAM>
+		<descripcion>Celular de la marca Samsung con su modelo Galaxy S23 ULTRA, con pantalla de 6.8", con su memoria interna de 512 GB y sistema operativo Snapdragon 8 Gen 2.</descripcion>
+	
+	</Producto>
+	<Producto cod="04">
+		<nombre>Huawei NOVA Y61</nombre>
+		<imagen>img/huaweinova.jpg</imagen>
+		<modelo>NOVAY61AZUL</modelo>
+		<precio>189.00</precio>
+		<color>Azul</color>
+		<sistemaOperativo>EMUI 12</sistemaOperativo>
+		<RAM>4 GB</RAM>
+		<descripcion>Celular Huawei, con su modelo NOVAY61AZUL y pantalla de 6.52", memoria interna de 64 GB y sistema operativo EMUI 12.</descripcion>
+
+	</Producto>
+	<Producto cod="05">
+		<nombre>Samsung ZFLIP 4</nombre>
+		<imagen>img/Zflip4.png</imagen>
+		<modelo>SMF721BLBJGT</modelo>
+		<precio>1099.00</precio>
+		<color>Azul</color>
+		<sistemaOperativo>Android 12</sistemaOperativo>
+		<RAM>8 GB</RAM>
+		<descripcion>Celular Samsung con modelo SMF721BLBJGT y pantalla de 6.7", memoria interna de 128 GB y sistema operativo Android 12. </descripcion>
+		
+	</Producto>
+	<Producto cod="06">
+		<nombre>Motorola Moto E22i</nombre>
+		<imagen>img/motorolamoto.png</imagen>
+		<modelo>MOTOE22INGO</modelo>
+		<precio>129.00</precio>
+		<color>Negro</color>
+		<sistemaOperativo>Android</sistemaOperativo>
+		<RAM>2 GB</RAM>
+		<descripcion>Celular Motorola modelo MOTOE22INGO, memoria interna de 64 GB y sistema operativo Android</descripcion>
+	
+	</Producto>
+	<Producto cod="07">
+		<nombre>Honor X6</nombre>
+		<modelo>HONORX6AZL</modelo>
+		<imagen>img/honorx6.jpg</imagen>
+		<precio>149.00</precio>
+		<color>Rojo</color>
+		<sistemaOperativo>Android 12</sistemaOperativo>
+		<RAM>4 GB</RAM>
+		<descripcion>Modelo HONORX6AZL con una capacidad de memoria interna de 64 GB, memoria RAM de 4GB, posee pantalla de 6.5" tipo LCD.</descripcion>
+	
+	</Producto>
+    <Producto cod="08">
+		<nombre>Apple IPHONE 13</nombre>
+		<imagen>img/iphone13.jpg</imagen>
+		<modelo>MLPG3LZ</modelo>
+		<precio>899.00</precio>
+		<color>Blanco</color>
+		<sistemaOperativo>iOS</sistemaOperativo>
+		<RAM>6 GB</RAM>
+		<descripcion>Celular de la marca Apple con su modelo MLPG3LZ, cuenta con  pantalla de 6.1", memoria interna de 128 GB y sistema operativo iOS.</descripcion>
+	
+	</Producto>
+	 <Producto cod="09">
+		<nombre>TCL Celular 10PRO</nombre>
+		<imagen>img/tcl10.png</imagen>
+		<modelo>T799BGREEN</modelo>
+		<precio>395.00</precio>
+		<color>Verde</color>
+		<sistemaOperativo>TCL UI Android™ 10</sistemaOperativo>
+		<RAM>6 GB</RAM>
+		<descripcion>Celular modelo T799BGREEN cuenta con una pantalla de 6.47", con su cámara principal de 64 MP MP y frontal de 2 MP.</descripcion>
+	
+	</Producto>
+	<Producto cod="10">
+		<nombre>Celular 20E HONG KONG</nombre>
+		<imagen>img/hongkong.jpg</imagen>
+		<modelo>T6125FBLUE</modelo>
+		<precio>175.00</precio>
+		<color>Twilight Blue</color>
+		<sistemaOperativo>Android 11</sistemaOperativo>
+		<RAM>4 GB</RAM>
+		<descripcion>Celular que la marca TCL trae para ti, con el modelo T6125FBLUE, memoria interna de 64 GB y su sistema operativo Android 11.</descripcion>
+	
+	</Producto>
+</productos>
